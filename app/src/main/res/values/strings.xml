@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">我不是计算器</string>
+    <string name="AC">AC</string>
+    <string name="DEl">😂</string>
+    <string name="open">(</string>
+    <string name="close">)</string>
+    <string name="divide">÷</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="multiply">×</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="minus">-</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="hint" />
+    <string name="error">Error</string>
+</resources>
